@@ -4,6 +4,10 @@
 
 This repository contains the code and example notebooks for using BISTRO.
 
+## Security Vulnerability
+
+**Important:** This project contains a dependency with a known critical security vulnerability. Please read our [**Vulnerability Disclosure**](VULNERABILITY_DISCLOSURE.md) for details on the associated risks and mitigation steps before using this code.
+
 ## Overview
 
 Many traditional forecasting approaches require a different model for each variable. BISTRO provides a **low-cost and flexible tool** for baseline forecasts and conditional scenarios.
