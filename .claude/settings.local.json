@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"c:\\\\\\\\Users\\\\\\\\sam_s\\\\\\\\OneDrive\\\\\\\\문서\\\\\\\\VS_sidePJ\\\\\\\\bistro\\\\\\\\bistro-finetuned\\\\\\\\\")"
+    ]
+  }
+}
